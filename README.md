@@ -1,6 +1,6 @@
-# 🥗 Nutri-Bot: Reinforcement Learning Demo
+# Nutri-Bot: Reinforcement Learning Demo
 
-## 🎯 Project Overview
+## Project Overview
 **Nutri-Bot** is an interactive Reinforcement Learning (RL) agent that learns dietary preferences through Human-in-the-Loop (HITL) feedback.
 
 This project demonstrates the transition from **Manual Data Labeling** to **AI Domain Specialization**. Instead of hard-coding rules (e.g., `if apple then eat`), the system uses a **Q-Learning algorithm** to develop a policy based on real-time feedback from a human expert.
